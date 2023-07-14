@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "101786199628",
+    "project_id": "fresh-server-357518",
+    "storage_bucket": "fresh-server-357518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101786199628:android:9ac219f8a2e985d28cf6e9",
+        "android_client_info": {
+          "package_name": "com.rentarbo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101786199628-b4ehi0e1qpbsuh1ln3pa6535m4hkh3l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_0f8qIB-4ooLnDIA2wJmmN8U8UEJ6SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101786199628-7ebcmbs8u5410prkm0rf23nnnn9gmgva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "101786199628-gkp6057sl2k8l3hf2vh4362c3n4psmkl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rentarbo.ios",
+                "app_store_id": "6444125995"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
